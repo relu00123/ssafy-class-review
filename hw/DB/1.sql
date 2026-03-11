@@ -1,0 +1,1 @@
+SELECT member_id, username, money FROM member;

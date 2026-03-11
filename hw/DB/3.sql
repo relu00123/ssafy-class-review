@@ -1,0 +1,1 @@
+SELECT * FROM member ORDER BY money DESC LIMIT 10;

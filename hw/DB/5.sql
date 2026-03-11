@@ -1,0 +1,1 @@
+UPDATE member SET gender = "male" WHERE gender = "M";
